@@ -1,0 +1,16 @@
+{
+  "order": [
+    1,
+    1,
+    0
+  ],
+  "forecast_steps": 60,
+  "holdout_rmse": 5191.59200610603,
+  "baseline_rmse": 5192.534354314244,
+  "holdout_mae": 3822.155630569779,
+  "unit": "KRW adjusted close",
+  "period": [
+    "2021-07-01",
+    "2024-12-30"
+  ]
+}
